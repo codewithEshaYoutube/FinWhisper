@@ -1,1 +1,165 @@
-streamlit
+# ============================================================================
+# FinWhisper - AI-Powered Finance Workflow Error Detection System
+# Complete Dependencies File (Latest Stable Versions)
+# ============================================================================
+# Installation: pip install -r requirements.txt
+# ============================================================================
+
+# ============================================================================
+# CORE DATA SCIENCE & MACHINE LEARNING
+# ============================================================================
+
+# Data manipulation and analysis
+pandas
+numpy
+
+# Machine Learning models and algorithms
+scikit-learn
+scipy
+
+# Statistical computations
+statsmodels
+
+# ============================================================================
+# VISUALIZATION & DASHBOARDS
+# ============================================================================
+
+# Interactive web-based visualizations (PRIMARY)
+plotly
+
+# Static plotting library
+matplotlib
+
+# Statistical data visualization
+seaborn
+
+# ============================================================================
+# DATA I/O & FILE HANDLING
+# ============================================================================
+
+# Excel file support (XLSX, XLS)
+openpyxl
+xlrd
+
+# CSV parsing with advanced features
+python-csv
+
+# PDF generation (for reports)
+reportlab
+
+# ============================================================================
+# NATURAL LANGUAGE PROCESSING (Optional but Recommended)
+# ============================================================================
+
+# NLTK - Natural Language Toolkit
+nltk
+
+# spaCy - Industrial-strength NLP
+spacy
+
+# ============================================================================
+# API & WEB INTEGRATION
+# ============================================================================
+
+# HTTP library for API calls
+requests
+
+# URL parsing and validation
+urllib3
+
+# ============================================================================
+# ENVIRONMENT & CONFIGURATION
+# ============================================================================
+
+# Environment variable management
+python-dotenv
+
+# Configuration file parsing
+PyYAML
+
+# ============================================================================
+# LOGGING & MONITORING
+# ============================================================================
+
+# Advanced logging
+python-json-logger
+
+# ============================================================================
+# AUTHENTICATION & SECURITY
+# ============================================================================
+
+# Email sending capabilities
+secure-smtplib
+
+# Cryptography for secure operations
+cryptography
+
+# ============================================================================
+# DATABASE (Optional for production)
+# ============================================================================
+
+# SQLAlchemy - SQL toolkit
+SQLAlchemy
+
+# PostgreSQL adapter
+psycopg2-binary
+
+# MongoDB adapter
+pymongo
+
+# ============================================================================
+# CLOUD & ORCHESTRATION (IBM watsonx)
+# ============================================================================
+
+# IBM Cloud SDK
+ibm-cloud-sdk-core
+
+# IBM watsonx integration
+ibm-watson
+
+# ============================================================================
+# TESTING & DEVELOPMENT
+# ============================================================================
+
+# Testing framework
+pytest
+
+# Code coverage reporting
+pytest-cov
+
+# Mocking and fixtures
+pytest-mock
+
+# Code formatting
+black
+
+# Code linting
+flake8
+pylint
+
+# Type checking
+mypy
+
+# ============================================================================
+# PERFORMANCE & OPTIMIZATION
+# ============================================================================
+
+# Parallel processing
+joblib
+
+# ============================================================================
+# UTILITIES
+# ============================================================================
+
+# Date/time handling
+python-dateutil
+
+# Progress bars
+tqdm
+
+# Pretty printing
+pprint
+
+# ============================================================================
+# END OF DEPENDENCIES
+# ============================================================================streamlit
